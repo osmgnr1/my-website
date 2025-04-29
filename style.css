@@ -1,0 +1,52 @@
+.profile-image {
+  border-radius: 20px;
+}
+.cover-container {
+  max-width: 42em;
+}
+/* section {
+  padding-top: 20px;
+  padding-bottom: 20px;
+} */
+
+#about-me,
+#brief-introduction,
+#my-projects,
+#my-skills,
+#contact-me {
+  height: 100vh;
+  padding-top: 100px;
+}
+
+#about-me > div > h2,
+#my-projects > div > h2,
+#my-skills > div > h2,
+#contact-me > div > h2 {
+  text-align: center;
+}
+
+.my-projects-cards {
+  justify-content: center;
+}
+
+.my-projects-cards h3 {
+  padding-bottom: 10px;
+}
+
+.my-skills ul {
+  justify-content: center;
+  align-items: center;
+}
+.list-group-item {
+  font-weight: bold;
+}
+
+.social-media-contacts a {
+  text-align: center;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.social-media-contacts div {
+  text-align: center;
+}
